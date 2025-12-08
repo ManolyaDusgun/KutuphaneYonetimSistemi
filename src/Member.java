@@ -7,7 +7,7 @@ public class Member {
     private String name;
 
     /**
-     * Üye oluşturucu.
+     Üye oluşturucu.
      * @param id Üye ID'si
      * @param name Üye adı
      */
