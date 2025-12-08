@@ -7,7 +7,7 @@ public class StudentMember extends Member {
 
     /**
      * Öğrenci üye oluşturucu.
-     * @param id Üye ID'si
+      @param id Üye ID'si
      * @param name Üye adı
      * @param schoolName Okul adı
      */
