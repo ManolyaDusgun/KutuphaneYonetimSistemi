@@ -27,7 +27,7 @@ public class Book {
     public boolean isAvailable() { return available; }
 
     /**
-     * Kitap ödünç alındığında durumunu false yapar.
+     Kitap ödünç alındığında durumunu false yapar.
      */
     public void borrow() { available = false; }
 
