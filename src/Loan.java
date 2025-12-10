@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 
 /**
- * Loan sınıfı, bir üyenin ödünç aldığı kitabı temsil eder.
+ * Loan sınıfı, bir üyenin ödünç aldığı kitabı temsil eder
  * Ödünç alma ve iade tarihlerini içerir.
  */
 public class Loan {
