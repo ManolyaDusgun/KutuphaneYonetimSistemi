@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * LibraryManager sınıfı, kütüphane içerisindeki kitapları, üyeleri ve
- * ödünç işlemlerini yönetmek için kullanılır.
+ * LibraryManager sınıfı, kütüphane içerisindeki kitapları, üyeleri ve ödünç işlemlerini yönetmek için kullanılır.
  * Kitap ekleme, üye ekleme, ödünç alma/iade, listeleme, arama ve dosya kaydı yapılabilir.
  */
 public class LibraryManager {
