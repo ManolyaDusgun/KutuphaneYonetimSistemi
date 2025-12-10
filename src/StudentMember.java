@@ -1,6 +1,6 @@
 /**
  * StudentMember sınıfı, Member sınıfından türetilmiş bir öğrenciyi temsil eder.
- * Öğrencinin okul adı da tutulur.
+ * Öğrencinin okul adı da tutulur
  */
 public class StudentMember extends Member {
     private String schoolName;
